@@ -57,10 +57,18 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sid9879&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sid9879&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sid9879/Sid9879/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sid9879/Sid9879/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sid9879/Sid9879/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
