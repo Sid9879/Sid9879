@@ -52,7 +52,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid9879&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee" />
+  <img src="https://streak-stats.demolab.com/?user=Sid9879&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee" />
 </div>
 
 ---
@@ -84,6 +84,7 @@ const developer = {
 ### 🔗 Integrations & APIs
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![ZEGOCLOUD](https://img.shields.io/badge/ZEGOCLOUD-1A72E8?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF6633?style=for-the-badge&logo=bunny&logoColor=white)
 
