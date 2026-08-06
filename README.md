@@ -107,7 +107,7 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-### 🧾 [BillBnao](https://github.com/Sid9879/BillBanao) — GST Compliance Platform
+  GST Compliance Platform
 > *Complete GST compliance web app built singlehandedly as sole backend developer*
 
 - 🤖 **AI-powered** purchase order scanning using **Google Gemini API** — upload a photo and auto-extract details
