@@ -115,11 +115,10 @@ const developer = {
 - 🧾 **E-Invoice** & **E-Way Bill** generation
 - 🔐 OTP-based secure authentication + JWT
 - **Stack:** `Node.js` `Express.js` `MongoDB` `Gemini API` `GST API` `JWT` `OTP Auth`
-- 🔗 [Admin Dashboard](https://bill-banao-admin.vercel.app/auth)
 
 ---
 
-### 📺 [Ulive](https://github.com/Sid9879/Ulive.git) — Live Streaming & Creator Economy Platform
+— Live Streaming & Creator Economy Platform
 > *TikTok-inspired live streaming platform with complex multi-role hierarchy*
 
 - 🎥 Real-time live **audio/video streaming** via **ZEGOCLOUD**
@@ -127,11 +126,10 @@ const developer = {
 - 👥 **6 distinct roles:** User, Host, CoinSeller, BusinessDevelopment, Agency, Admin
 - 🖼️ Image delivery via **BunnyCDN** + Google OAuth login
 - **Stack:** `Node.js` `Express.js` `MongoDB` `Socket.IO` `ZEGOCLOUD` `BunnyCDN` `Google OAuth` `JWT`
-- 🔗 [Admin](https://ulive-admin-dashboard.vercel.app/auth/signin) · [Agency](https://ulive-coin-agency-dashboard.vercel.app/auth/signin) · [Business Dev](https://ulive-business-developer-dashboard.vercel.app/auth/sign-in)
 
 ---
 
-### 🏷️ [Auction](https://github.com/Sid9879/Auction) — Multi-Vendor Live Auction System
+Multi-Vendor Live Auction System
 > *Real-time bidding platform with complex role-based permission model*
 
 - ⚡ Real-time live **bidding** via **Socket.IO**
@@ -139,18 +137,16 @@ const developer = {
 - 👥 **5 user roles:** Bidder, Vendor, Social Partner, Marketing Partner, Admin
 - 📸 Image processing with **Multer & Sharp** + automated scheduling with `node-cron`
 - **Stack:** `Node.js` `Express.js` `MongoDB` `Socket.IO` `Razorpay` `Multer` `Sharp` `Nodemailer`
-- 🔗 [Live Demo](https://auction-management-system-dev.vercel.app/auth/signin)
 
 ---
 
-### 🏭 [National Product](https://github.com/SgCode301/np-api) — Enterprise Production & Inventory Management
+### Enterprise Production & Inventory Management
 > *Enterprise-grade production management for manufacturing operations*
 
 - 📦 Stock & inventory tracking across raw materials to finished goods
 - 📋 Full **order lifecycle management**
 - 🏭 Production pipeline control with role-based admin dashboard
 - **Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `MVC Architecture`
-- 🔗 [Live Demo](https://national-product-dashboard.vercel.app/auth/signin)
 
 ---
 
